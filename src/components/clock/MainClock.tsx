@@ -77,9 +77,7 @@ const MainClock = (props: Props) => {
           )}
         </div>
       )}
-
       <Github />
-
       {renderSwitch()}
     </div>
   );
